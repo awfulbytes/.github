@@ -1,0 +1,7 @@
+#+title: awfulbytes
+#+subtitle: Making sounds from bytes
+
+* Goals
+- Create things as they should function
+- Manipulate sound waves with voltage and code
+- Many more...
